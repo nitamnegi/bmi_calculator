@@ -17,7 +17,7 @@ Contributions:
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests.
 
 Credits:
-Developed by Nitam Negi | View the source code on [GitHub].
+Developed by [Nitam Negi](https://www.linkedin.com/in/nitam-negi-3307b5291/)
 
 Connect with Me:
-- [LinkedIn]https://www.linkedin.com/in/nitam-negi-3307b5291/
+- [LinkedIn](https://www.linkedin.com/in/nitam-negi-3307b5291/)
