@@ -48,3 +48,18 @@ body {
         font-weight: bold;
         color: #333;
     }
+    .cent {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 0.8em;
+        color: #666;
+    }
+    
+    .cent a {
+        color: #007;
+        text-decoration: none;
+    }
+    
+    .cent a:hover {
+        text-decoration: underline;
+    }
